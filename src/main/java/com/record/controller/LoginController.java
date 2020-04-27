@@ -83,4 +83,9 @@ public class LoginController {
         adminUserService.saveAdminUser(adminUser1);
         return "success";
     }
+
+    //测试git
+    public void testGit(){
+
+    }
 }
